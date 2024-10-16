@@ -6,4 +6,4 @@ while contador <= 10:
         multiplos.append(atual)
         contador += 1
        
-print(f'Os 10 primeiros míltiplos de 3 são: {multiplos}')
+print(f'Os 10 primeiros múltiplos de 3 são: {multiplos}')
